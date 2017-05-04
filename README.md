@@ -4,6 +4,8 @@
 
 Simple and easy to use app to performs currency conversions.
 
+![Screenshot](http://res.cloudinary.com/betogrun/image/upload/v1493858501/screencapture-0-0-0-0-3000-1493858425590_xep2li.png)
+
 ## Ruby version
 
 Running on 2.3.3. But it is probably that it runs on >= 1.9
