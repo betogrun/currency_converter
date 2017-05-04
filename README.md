@@ -23,4 +23,6 @@ docker-compose up
 ```
 
 ## How to run the test suite
-`docker-compose run --rm website rspec spec/`
+```
+docker-compose run --rm website rspec spec/
+```
