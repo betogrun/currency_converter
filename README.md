@@ -4,7 +4,7 @@
 
 Simple and easy to use app to performs currency conversions.
 
-![Screenshot](http://res.cloudinary.com/betogrun/image/upload/v1493858501/screencapture-0-0-0-0-3000-1493858425590_xep2li.png)
+![Screenshot](http://res.cloudinary.com/betogrun/image/upload/v1493958057/currency_converter2_mxm6d7.png)
 
 ## Ruby version
 
