@@ -6,6 +6,12 @@ body {
   background-size: cover;
 }
 
+.logo {
+  font-family: 'Codystar', cursive;
+  color: white;
+  text-align: center;
+}
+
 .title-box{
   margin-top: 20%;
   .title{
@@ -19,5 +25,6 @@ body {
   .logo-box{
     margin: 0 auto;
     padding-bottom: 10px;
+    padding-top: 10px;
   }
 }
